@@ -1,3 +1,5 @@
+MergeSort:
+
 from typing import List
 
 def merge(array, l, m, r):
