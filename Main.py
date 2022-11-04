@@ -1,4 +1,4 @@
-MergeSort:
+
 
 from typing import List
 
